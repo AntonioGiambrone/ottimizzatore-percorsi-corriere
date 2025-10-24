@@ -1,0 +1,5 @@
+{
+  "name": "Ottimizzatore Percorsi Corriere",
+  "description": "Un'applicazione web per aiutare i corrieri a ottimizzare i loro percorsi di consegna. Inserisci un punto di partenza, di arrivo e più tappe, oppure carica un file CSV con gli indirizzi. L'app utilizzerà l'API Gemini per calcolare il percorso più efficiente e aprirà Google Maps con le indicazioni ottimizzate.",
+  "requestFramePermissions": []
+}
